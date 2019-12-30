@@ -1,6 +1,8 @@
 {
   "name": "qianlong/snowflake",
   "version": "1.1.0",
+  "license": "Apache-2.0",
+  "keywords": ["snowflake","php7","extension"],
   "authors": [
     {
       "name": "qianlong",
